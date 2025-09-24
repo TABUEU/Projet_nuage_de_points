@@ -1,0 +1,2 @@
+# Projet_nuage_de_points
+ code permettant d’importer les données du fichier nuage_de_points.txt, de calculer le plan des moindres carrés associé et d’afficher tout cela
